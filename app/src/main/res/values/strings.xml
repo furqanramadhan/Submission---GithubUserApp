@@ -1,0 +1,12 @@
+<resources>
+    <string name="title_appbar">Github User App</string>
+    <string name="app_name">GithubUserApp</string>
+    <string name="hint">input username</string>
+    <string name="username">Username</string>
+    <string name="user_type">User Type</string>
+    <string name="user_empty">User not found</string>
+    <string name="detail_user">User Detail</string>
+    <string name="name">Name</string>
+    <string name="tab_followers">Followers</string>
+    <string name="tab_following">Following</string>
+</resources>
